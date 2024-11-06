@@ -1,4 +1,4 @@
-# **Computer Networks Lab Exercises**
+# **Computer Network Lab Exercises**
 
 This repository contains a collection of lab exercises for the Computer Networks course, covering essential networking concepts, practical configurations, and protocol analysis.
 
